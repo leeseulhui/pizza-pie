@@ -1,10 +1,11 @@
 # pizza-pie
 opensource(relate-php)
+
 아래와 같이 가장 좋아하는 피자의 맛을 선택할 수 있는 것을 수량으로 나타낼 수 있도록 만들어줬다.
 
 ![image](https://user-images.githubusercontent.com/75656859/230274168-04c72c3e-fc3e-4337-b1f3-738ffd072968.png)
 
-임의로 데이터를 입력해보았다.
+임의로 data 5개를 차례대로 입력해보았다.
 
 ![image](https://user-images.githubusercontent.com/75656859/230274321-f8cc6fb3-acc9-4425-b937-06c63383f624.png)
 
